@@ -1,0 +1,3 @@
+The Task Manager REST API is a lightweight backend application built using Node.js and Express.js, designed to demonstrate core RESTful API principles and best practices. It provides a simple interface for managing tasks, including creating, reading, updating, and deleting (CRUD) task items.
+
+This project is structured with a clean separation of concerns using the Router → Controller → Service architecture pattern. It also integrates essential middleware for configuration, request logging, and centralized error handling, making it an ideal starter project for understanding API development in Node.js.
